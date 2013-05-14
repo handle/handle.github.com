@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 贷成的首页
+title: 首页
 tagline: 夫唯道，善贷且成！
 ---
 {% include JB/setup %}
@@ -10,8 +10,6 @@ tagline: 夫唯道，善贷且成！
     author :贷成
     email : handleyan@gmail.com
     github : handle
-    
-    
     
 ## 我的博文
 
