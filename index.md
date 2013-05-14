@@ -7,7 +7,7 @@ tagline: 夫唯道，善贷且成！
 
 ## 个人简介
     
-    author :贷成
+    author : 贷成
     email : handleyan@gmail.com
     github : handle
     
