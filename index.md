@@ -3,6 +3,8 @@ layout: page
 title: 首页
 description:""
 tagline: 夫唯道，善贷且成！
+category: personal
+tags: [夫唯道，善贷且成]
 ---
 {% include JB/setup %}
 
