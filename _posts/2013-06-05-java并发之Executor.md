@@ -57,7 +57,6 @@ java自1.5以来加入了处理一批线程的方法，也就是java并发包里
 唯一区别就是它支持返回处理结果：
 
     Future<?> future = executorService.submit(new Callable<String>() {
-CompletionService
         @Override
         public String call() throws Exception {
             return "hello callable!";
