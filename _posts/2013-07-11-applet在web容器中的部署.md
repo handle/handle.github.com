@@ -8,7 +8,7 @@ tags: [沧海拾遗]
 {% include JB/setup %}
 将一个applet部署到web应用中，首先在html端很简单，只要在html嵌入如下的applet代码即可：   
 
-    &lt;applet id="TestApplet" archive="TestApplet.jar" code="TestApplet.class" codebase="." width="100" height="100">&lt;/applet>
+    <applet id="TestApplet" archive="TestApplet.jar" code="TestApplet.class" codebase="." width="100" height="100"></applet>
 
 但是这个时候要把TestApplet.jar部署到哪呢？假设上面的html页面的访问url为如下：
 
