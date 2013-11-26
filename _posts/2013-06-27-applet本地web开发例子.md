@@ -54,9 +54,9 @@ tags: [沧海拾遗]
 	    <title>JavaSocketBridge Example</title>
         </head>
         <body>
-	<div>  
-	        &lt;applet id="TestApplet" archive="TestApplet.jar" code="TestApplet.class" codebase="." width="100" height="100">&lt;/applet>   
-	</div>
+	    <div>  
+	        <applet id="TestApplet" archive="TestApplet.jar" code="TestApplet.class" codebase="." width="100" height="100"></applet>   
+	    </div>
         </body>
         </html>
 

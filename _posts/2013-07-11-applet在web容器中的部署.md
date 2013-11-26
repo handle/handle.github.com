@@ -6,7 +6,7 @@ category: "Java"
 tags: [沧海拾遗]
 ---
 {% include JB/setup %}
-将一个applet部署到web应用中，首先在html端很简单，只要在html嵌入如下的applet代码即可：   
+将一个applet部署到web应用中，首先html端很简单，只要在html嵌入如下的applet代码即可：   
 
     <applet id="TestApplet" archive="TestApplet.jar" code="TestApplet.class" codebase="." width="100" height="100"></applet>
 
